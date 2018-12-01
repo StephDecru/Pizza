@@ -1,0 +1,60 @@
+body {
+  background-color: #606060;
+}
+
+form {
+  background-color: #AFAFAF;
+}
+table {
+    background-color: #00FFFF;
+    margin: auto;
+  }
+
+#container {
+  color: #FEE7F0;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex;
+  background-color:  #AFAFAF;
+
+}
+.piz {
+  order: 0;
+  width: 280px;
+  border-color: #FEE7F0;
+  border: solid ;
+  padding: 5px;
+  margin-top:3px;
+  border-radius: 10%;
+  text-align: center;
+  }
+
+.piz img {
+  width: 100%;
+}
+
+h3 {
+  color: #303030;
+  font-size: 30px;
+  text-align: center;
+}
+
+.price {
+  font-size: 30px;
+  color: #303030;
+    text-align: center;
+}
+
+.panier {
+  text-align: center;
+}
+
+form {
+  text-align: center;
+}
+
+ul {
+list-style:none;
+margin-left:0;
+padding-left:0;
+}
